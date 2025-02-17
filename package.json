@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/abraham/.github#readme",
   "devDependencies": {
-    "prettier": "3.4.2"
+    "prettier": "3.5.1"
   }
 }
